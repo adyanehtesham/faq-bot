@@ -9,6 +9,7 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import csv
+import os
 
 URL = 'https://help.uber.com/ubereats/article/dine-in-and-pick-up-order-faq?nodeId=dceda7b6-cc5a-4351-beae-b87ae7c28de9'
 page = requests.get(URL)
@@ -59,3 +60,19 @@ for i in questions:
 with open('uber.csv', 'w') as f:
     writer = csv.writer(f)
     writer.writerows(zip(questions, answers))
+
+# Replacing instances of uber with skiply
+with open('uber.csv', 'r') as f:
+    uberText = f.read()
+with open('skiply1.csv', 'w') as f:
+    f.write(re.sub('Uber', 'Skiply', uberText))
+
+# Removing the 'QUESTION:' before every question
+with open('skiply1.csv', 'r') as f:
+    skiply1Text = f.read()
+with open('skiply1.csv', 'w') as f:
+    f.write(re.sub('QUESTION:', '', skiply1Text))
+
+# Deleting unnecessary files
+os.remove('uberEats.txt')
+os.remove('uber.csv')

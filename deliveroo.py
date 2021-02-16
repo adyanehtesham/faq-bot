@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import csv
+import os
 
 URL = 'https://deliveroo.co.uk/faq'
 page = requests.get(URL)
@@ -39,3 +40,11 @@ for i in answerRegex.findall(source):
 with open('deliveroo.csv', 'w') as f:
     writer = csv.writer(f)
     writer.writerows(zip(questions, answers))
+
+with open('deliveroo.csv', 'r') as f:
+    deliverooText = f.read()
+
+with open('skiply2.csv', 'w') as f:
+    f.write(re.sub(r'(deliveroo|Deliveroo|DELIVEROO)', 'Skiply', deliverooText))
+
+os.remove('deliveroo.csv')
