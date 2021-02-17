@@ -1,7 +1,8 @@
 import spacy
 from spacy import displacy
-import matplotlib
+from matplotlib import pyplot
 import string
+from collections import Counter
 
 nlp = spacy.load("en_core_web_sm")
 
@@ -15,15 +16,19 @@ for ent in doc.ents:
 
 text.translate(str.maketrans('', '', string.punctuation))
 
-uniqueWords = []
-words = 0
-for i in text.strip(' '):
-    if i not in uniqueWords:
-        uniqueWords.append(i)
-    words += 1
-
 print("The total number of words is:", str(words))
-print('The number of unique words is:', str(len(uniqueWords)))
 
 displacy.serve(doc, style="dep")
 displacy.serve(doc, style="ent")
+
+# Getting a list of tuples for the occurrences of all the words
+# Extracting the data of the 10 most common words and then plotting that
+# to a bar graph using pyplot.
+freq = Counter(text.split())
+popular = freq.most_common(10)
+length = len(popular)
+
+pyplot.bar(range(length), [length[1] for length in popular], align='center')
+pyplot.xticks(range(length), [length[0] for length in popular])
+
+pyplot.show()

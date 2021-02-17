@@ -23,12 +23,13 @@ results = soup.find(class_='layout__item desk-and-up-four-fifths')
 # finds all the individual faq elements
 faqQuestion = results.find_all('span')
 
-# writing to a file
+# writing to a file to be processed later
 text = open('uberEats.txt', 'w')
 for i in faqQuestion:
     text.write(i.text + '\n')
 text.close()
 
+# getting all the text in one string variable
 with open("uberEats.txt", 'r') as f:
     uberEats_txt = f.readlines()
 whole_txt = "".join(uberEats_txt)
@@ -52,9 +53,6 @@ for i in answerRegex.findall(whole_txt):
 for i in answers:
     i = i.replace('\n', ' ')
     i = i.replace('. . .', '')
-
-for i in questions:
-    i.replace("QUESTION:", '')
 
 # creating a csv file and then adding the questions and answers
 with open('uber.csv', 'w') as f:

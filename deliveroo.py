@@ -28,6 +28,7 @@ faqQuestion = results.find_all('h3')
 for i in faqQuestion:
     questions.append(i.text)
 
+# replacing questions in the source for easy regex
 for i in questions:
     if i in source:
         source = source.replace(i, 'REGULAREX')
@@ -44,6 +45,7 @@ with open('deliveroo.csv', 'w') as f:
 with open('deliveroo.csv', 'r') as f:
     deliverooText = f.read()
 
+# replacing deliveroo with skiply
 with open('skiply2.csv', 'w') as f:
     f.write(re.sub(r'(deliveroo|Deliveroo|DELIVEROO)', 'Skiply', deliverooText))
 
