@@ -1,0 +1,348 @@
+version: "2.0"
+
+stories:
+
+- story: WhatisaPickuporder
+  steps:
+   - intent: WhatisaPickuporder
+   - action: utter_WhatisaPickuporder
+
+- story: WhatisaDineinorder
+  steps:
+   - intent: WhatisaDineinorder
+   - action: utter_WhatisaDineinorder
+
+- story: WhatifIcantfindtherestaurant
+  steps:
+   - intent: WhatifIcantfindtherestaurant
+   - action: utter_WhatifIcantfindtherestaurant
+
+- story: HowdoIorderPickup
+  steps:
+   - intent: HowdoIorderPickup
+   - action: utter_HowdoIorderPickup
+
+- story: HowdoIorderDinein
+  steps:
+   - intent: HowdoIorderDinein
+   - action: utter_HowdoIorderDinein
+
+- story: Whereismyordernumber
+  steps:
+   - intent: Whereismyordernumber
+   - action: utter_Whereismyordernumber
+
+- story: IsorderingthroughSkiplysafe
+  steps:
+   - intent: IsorderingthroughSkiplysafe
+   - action: utter_IsorderingthroughSkiplysafe
+
+- story: Howdoescontactfreedeliverywork
+  steps:
+   - intent: Howdoescontactfreedeliverywork
+   - action: utter_Howdoescontactfreedeliverywork
+
+- story: Howareyousupportingriders
+  steps:
+   - intent: Howareyousupportingriders
+   - action: utter_Howareyousupportingriders
+
+- story: Howareyousupportingrestaurants
+  steps:
+   - intent: Howareyousupportingrestaurants
+   - action: utter_Howareyousupportingrestaurants
+
+- story: WhatwillhappenifIhaveanoutstandingqueryorcomplaint
+  steps:
+   - intent: WhatwillhappenifIhaveanoutstandingqueryorcomplaint
+   - action: utter_WhatwillhappenifIhaveanoutstandingqueryorcomplaint
+
+- story: HowcanIkeepintouchwithyou
+  steps:
+   - intent: HowcanIkeepintouchwithyou
+   - action: utter_HowcanIkeepintouchwithyou
+
+- story: WhatisSkiply
+  steps:
+   - intent: WhatisSkiply
+   - action: utter_WhatisSkiply
+
+- story: WhatisthestorybehindSkiply
+  steps:
+   - intent: WhatisthestorybehindSkiply
+   - action: utter_WhatisthestorybehindSkiply
+
+- story: Howdoesitwork
+  steps:
+   - intent: Howdoesitwork
+   - action: utter_Howdoesitwork
+
+- story: WhatkindofrestaurantsarelistedonSkiply
+  steps:
+   - intent: WhatkindofrestaurantsarelistedonSkiply
+   - action: utter_WhatkindofrestaurantsarelistedonSkiply
+
+- story: WhattimescanIorderfor
+  steps:
+   - intent: WhattimescanIorderfor
+   - action: utter_WhattimescanIorderfor
+
+- story: Howisthefooddeliveredtome
+  steps:
+   - intent: Howisthefooddeliveredtome
+   - action: utter_Howisthefooddeliveredtome
+
+- story: WhydoesntSkiplyacceptcash
+  steps:
+   - intent: WhydoesntSkiplyacceptcash
+   - action: utter_WhydoesntSkiplyacceptcash
+
+- story: DoIhavetotip
+  steps:
+   - intent: DoIhavetotip
+   - action: utter_DoIhavetotip
+
+- story: Isthereaminimumspend
+  steps:
+   - intent: Isthereaminimumspend
+   - action: utter_Isthereaminimumspend
+
+- story: HowdoIredeemavouchercode
+  steps:
+   - intent: HowdoIredeemavouchercode
+   - action: utter_HowdoIredeemavouchercode
+
+- story: Doyouchargethesamepricesastherestaurantdoesintherestaurant
+  steps:
+   - intent: Doyouchargethesamepricesastherestaurantdoesintherestaurant
+   - action: utter_Doyouchargethesamepricesastherestaurantdoesintherestaurant
+
+- story: CanIplaceordersinadvance
+  steps:
+   - intent: CanIplaceordersinadvance
+   - action: utter_CanIplaceordersinadvance
+
+- story: CanIcollectmyorder
+  steps:
+   - intent: CanIcollectmyorder
+   - action: utter_CanIcollectmyorder
+
+- story: WhatifIwanttocancelmyorder
+  steps:
+   - intent: WhatifIwanttocancelmyorder
+   - action: utter_WhatifIwanttocancelmyorder
+
+- story: Howisthefoodpackaged
+  steps:
+   - intent: Howisthefoodpackaged
+   - action: utter_Howisthefoodpackaged
+
+- story: Whatifsomethingiswrongwithmyorder
+  steps:
+   - intent: Whatifsomethingiswrongwithmyorder
+   - action: utter_Whatifsomethingiswrongwithmyorder
+
+- story: WhatifIwanttoaddsomethingtomyorder
+  steps:
+   - intent: WhatifIwanttoaddsomethingtomyorder
+   - action: utter_WhatifIwanttoaddsomethingtomyorder
+
+- story: Whatifmyorderislate
+  steps:
+   - intent: Whatifmyorderislate
+   - action: utter_Whatifmyorderislate
+
+- story: WhatifImnotaroundwhenmyriderarrives
+  steps:
+   - intent: WhatifImnotaroundwhenmyriderarrives
+   - action: utter_WhatifImnotaroundwhenmyriderarrives
+
+- story: Igotacallfrom4401134679062—whoisthis
+  steps:
+   - intent: Igotacallfrom4401134679062—whoisthis
+   - action: utter_Igotacallfrom4401134679062—whoisthis
+
+- story: HowdofeesworkonSkiply
+  steps:
+   - intent: HowdofeesworkonSkiply
+   - action: utter_HowdofeesworkonSkiply
+
+- story: ImnotanewuserCanIgetfreecreditifIsignup
+  steps:
+   - intent: ImnotanewuserCanIgetfreecreditifIsignup
+   - action: utter_ImnotanewuserCanIgetfreecreditifIsignup
+
+- story: Icantseeaninvitelink–whereisit
+  steps:
+   - intent: Icantseeaninvitelink–whereisit
+   - action: utter_Icantseeaninvitelink–whereisit
+
+- story: WhatifIhaveallergies
+  steps:
+   - intent: WhatifIhaveallergies
+   - action: utter_WhatifIhaveallergies
+
+- story: AreCBDproductsavailableonSkiply 
+  steps:
+   - intent: AreCBDproductsavailableonSkiply 
+   - action: utter_AreCBDproductsavailableonSkiply 
+
+- story: Whenwillyoubedeliveringinmyarea
+  steps:
+   - intent: Whenwillyoubedeliveringinmyarea
+   - action: utter_Whenwillyoubedeliveringinmyarea
+
+- story: DoesSkiplyoffercompanyaccounts
+  steps:
+   - intent: DoesSkiplyoffercompanyaccounts
+   - action: utter_DoesSkiplyoffercompanyaccounts
+
+- story: IsthereaSkiplyapp
+  steps:
+   - intent: IsthereaSkiplyapp
+   - action: utter_IsthereaSkiplyapp
+
+- story: WhatisSkiplyEditions
+  steps:
+   - intent: WhatisSkiplyEditions
+   - action: utter_WhatisSkiplyEditions
+
+- story: IfIorderfromarestaurant,howdoIknowifitsanEditionskitchen
+  steps:
+   - intent: IfIorderfromarestaurant,howdoIknowifitsanEditionskitchen
+   - action: utter_IfIorderfromarestaurant,howdoIknowifitsanEditionskitchen
+
+- story: WhatisEditionstryingtodo
+  steps:
+   - intent: WhatisEditionstryingtodo
+   - action: utter_WhatisEditionstryingtodo
+
+- story: HowdoesSkiplyEditionswork
+  steps:
+   - intent: HowdoesSkiplyEditionswork
+   - action: utter_HowdoesSkiplyEditionswork
+
+- story: IsmymealdifferentwhenitcomesfromEditions
+  steps:
+   - intent: IsmymealdifferentwhenitcomesfromEditions
+   - action: utter_IsmymealdifferentwhenitcomesfromEditions
+
+- story: WhatisSkiplyPlus
+  steps:
+   - intent: WhatisSkiplyPlus
+   - action: utter_WhatisSkiplyPlus
+
+- story: HowdoIsignupforSkiplyPlus
+  steps:
+   - intent: HowdoIsignupforSkiplyPlus
+   - action: utter_HowdoIsignupforSkiplyPlus
+
+- story: IstherealimittohowmanyordersIcanplace
+  steps:
+   - intent: IstherealimittohowmanyordersIcanplace
+   - action: utter_IstherealimittohowmanyordersIcanplace
+
+- story: HowdoImanagemysubscription
+  steps:
+   - intent: HowdoImanagemysubscription
+   - action: utter_HowdoImanagemysubscription
+
+- story: WhenwillIbecharged
+  steps:
+   - intent: WhenwillIbecharged
+   - action: utter_WhenwillIbecharged
+
+- story: CanIsharemyaccountwithothers
+  steps:
+   - intent: CanIsharemyaccountwithothers
+   - action: utter_CanIsharemyaccountwithothers
+
+- story: HowcanIcancelmysubscription
+  steps:
+   - intent: HowcanIcancelmysubscription
+   - action: utter_HowcanIcancelmysubscription
+
+- story: CanIchangemypaymentdate
+  steps:
+   - intent: CanIchangemypaymentdate
+   - action: utter_CanIchangemypaymentdate
+
+- story: CanIgetmymoneybackifIwanttocancel
+  steps:
+   - intent: CanIgetmymoneybackifIwanttocancel
+   - action: utter_CanIgetmymoneybackifIwanttocancel
+
+- story: DoIstillhavetopayservicefeesandsmallorderfees
+  steps:
+   - intent: DoIstillhavetopayservicefeesandsmallorderfees
+   - action: utter_DoIstillhavetopayservicefeesandsmallorderfees
+
+- story: IamaSkiplyforBusinesscustomerCanIgetunlimitedfreedeliveryonordersplacedwithmycompanyallowance
+  steps:
+   - intent: IamaSkiplyforBusinesscustomerCanIgetunlimitedfreedeliveryonordersplacedwithmycompanyallowance
+   - action: utter_IamaSkiplyforBusinesscustomerCanIgetunlimitedfreedeliveryonordersplacedwithmycompanyallowance
+
+- story: IdonthavetheSkiplyappCanIsubscribeonthewebsite
+  steps:
+   - intent: IdonthavetheSkiplyappCanIsubscribeonthewebsite
+   - action: utter_IdonthavetheSkiplyappCanIsubscribeonthewebsite
+
+- story: Myvouchercodedoesntwork
+  steps:
+   - intent: Myvouchercodedoesntwork
+   - action: utter_Myvouchercodedoesntwork
+
+- story: IveaccidentallycancelledmysubscriptionCanIresubscribe
+  steps:
+   - intent: IveaccidentallycancelledmysubscriptionCanIresubscribe
+   - action: utter_IveaccidentallycancelledmysubscriptionCanIresubscribe
+
+- story: HowdoIusemyvouchertogetfreePlus 
+  steps:
+   - intent: HowdoIusemyvouchertogetfreePlus 
+   - action: utter_HowdoIusemyvouchertogetfreePlus 
+
+- story: IhaveavoucherforfreeSkiplyPlus–butIamstillseeingadeliveryfee
+  steps:
+   - intent: IhaveavoucherforfreeSkiplyPlus–butIamstillseeingadeliveryfee
+   - action: utter_IhaveavoucherforfreeSkiplyPlus–butIamstillseeingadeliveryfee
+
+- story: IhaveavoucherforfreeSkiplyPlus,butImalreadyamemberCanIstillusemyvoucher
+  steps:
+   - intent: IhaveavoucherforfreeSkiplyPlus,butImalreadyamemberCanIstillusemyvoucher
+   - action: utter_IhaveavoucherforfreeSkiplyPlus,butImalreadyamemberCanIstillusemyvoucher
+
+- story: Youdontdelivertomyaddress,canIgiftthevouchertosomeoneelse
+  steps:
+   - intent: Youdontdelivertomyaddress,canIgiftthevouchertosomeoneelse
+   - action: utter_Youdontdelivertomyaddress,canIgiftthevouchertosomeoneelse
+
+- story: WhatdoIdoifIhaveachargeIdonotrecognise
+  steps:
+   - intent: WhatdoIdoifIhaveachargeIdonotrecognise
+   - action: utter_WhatdoIdoifIhaveachargeIdonotrecognise
+
+- story: WhydoIstillseeachargeforacancelledorder
+  steps:
+   - intent: WhydoIstillseeachargeforacancelledorder
+   - action: utter_WhydoIstillseeachargeforacancelledorder
+
+- story: HowdoIcheckthestatusofmyrefund
+  steps:
+   - intent: HowdoIcheckthestatusofmyrefund
+   - action: utter_HowdoIcheckthestatusofmyrefund
+
+- story: IwassickafterconsumingfoodWhatdoIdo
+  steps:
+   - intent: IwassickafterconsumingfoodWhatdoIdo
+   - action: utter_IwassickafterconsumingfoodWhatdoIdo
+
+- story: IfoundaforeignobjectinmyfoodWhatdoIdo
+  steps:
+   - intent: IfoundaforeignobjectinmyfoodWhatdoIdo
+   - action: utter_IfoundaforeignobjectinmyfoodWhatdoIdo
+
+- story: Ihadanallergicreactionafterconsumingmyfood
+  steps:
+   - intent: Ihadanallergicreactionafterconsumingmyfood
+   - action: utter_Ihadanallergicreactionafterconsumingmyfood

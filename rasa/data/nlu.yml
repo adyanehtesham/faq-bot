@@ -1,0 +1,278 @@
+version: "2.0"
+nlu:
+- intent: WhatisaPickuporder
+  examples: |
+       -  What is a Pick-up order?
+
+- intent: WhatisaDineinorder
+  examples: |
+       -  What is a Dine-in order?
+
+- intent: WhatifIcantfindtherestaurant
+  examples: |
+       -  What if I can't find the restaurant?
+
+- intent: HowdoIorderPickup
+  examples: |
+       -  How do I order Pick-up?
+
+- intent: HowdoIorderDinein
+  examples: |
+       -  How do I order Dine-in?
+
+- intent: Whereismyordernumber
+  examples: |
+       -  Where is my order number?
+
+- intent: IsorderingthroughSkiplysafe
+  examples: |
+       - Is ordering through Skiply safe?
+
+- intent: Howdoescontactfreedeliverywork
+  examples: |
+       - How does contact-free delivery work?
+
+- intent: Howareyousupportingriders
+  examples: |
+       - How are you supporting riders?
+
+- intent: Howareyousupportingrestaurants
+  examples: |
+       - How are you supporting restaurants?
+
+- intent: WhatwillhappenifIhaveanoutstandingqueryorcomplaint
+  examples: |
+       - What will happen if I have an outstanding query or complaint?
+
+- intent: HowcanIkeepintouchwithyou
+  examples: |
+       - How can I keep in touch with you?
+
+- intent: WhatisSkiply
+  examples: |
+       - What is Skiply?
+
+- intent: WhatisthestorybehindSkiply
+  examples: |
+       - What is the story behind Skiply?
+
+- intent: Howdoesitwork
+  examples: |
+       - How does it work?
+
+- intent: WhatkindofrestaurantsarelistedonSkiply
+  examples: |
+       - What kind of restaurants are listed on Skiply?
+
+- intent: WhattimescanIorderfor
+  examples: |
+       - What times can I order for?
+
+- intent: Howisthefooddeliveredtome
+  examples: |
+       - How is the food delivered to me?
+
+- intent: WhydoesntSkiplyacceptcash
+  examples: |
+       - Why doesn't Skiply accept cash?
+
+- intent: DoIhavetotip
+  examples: |
+       - Do I have to tip?
+
+- intent: Isthereaminimumspend
+  examples: |
+       - Is there a minimum spend?
+
+- intent: HowdoIredeemavouchercode
+  examples: |
+       - How do I redeem a voucher code?
+
+- intent: Doyouchargethesamepricesastherestaurantdoesintherestaurant
+  examples: |
+       - Do you charge the same prices as the restaurant does in the restaurant?
+
+- intent: CanIplaceordersinadvance
+  examples: |
+       - Can I place orders in advance?
+
+- intent: CanIcollectmyorder
+  examples: |
+       - Can I collect my order?
+
+- intent: WhatifIwanttocancelmyorder
+  examples: |
+       - What if I want to cancel my order?
+
+- intent: Howisthefoodpackaged
+  examples: |
+       - How is the food packaged?
+
+- intent: Whatifsomethingiswrongwithmyorder
+  examples: |
+       - What if something is wrong with my order?
+
+- intent: WhatifIwanttoaddsomethingtomyorder
+  examples: |
+       - What if I want to add something to my order?
+
+- intent: Whatifmyorderislate
+  examples: |
+       - What if my order is late?
+
+- intent: WhatifImnotaroundwhenmyriderarrives
+  examples: |
+       - What if I’m not around when my rider arrives?
+
+- intent: Igotacallfrom4401134679062—whoisthis
+  examples: |
+       - I got a call from +44 (0) 113 467 9062 — who is this?
+
+- intent: HowdofeesworkonSkiply
+  examples: |
+       - How do fees work on Skiply?
+
+- intent: ImnotanewuserCanIgetfreecreditifIsignup
+  examples: |
+       - I'm not a new user. Can I get free credit if I sign up?
+
+- intent: Icantseeaninvitelink–whereisit
+  examples: |
+       - I can't see an invite link – where is it?
+
+- intent: WhatifIhaveallergies
+  examples: |
+       - What if I have allergies?
+
+- intent: AreCBDproductsavailableonSkiply 
+  examples: |
+       - Are CBD products available on Skiply? 
+
+- intent: Whenwillyoubedeliveringinmyarea
+  examples: |
+       - When will you be delivering in my area?
+
+- intent: DoesSkiplyoffercompanyaccounts
+  examples: |
+       - Does Skiply offer company accounts?
+
+- intent: IsthereaSkiplyapp
+  examples: |
+       - Is there a Skiply app?
+
+- intent: WhatisSkiplyEditions
+  examples: |
+       - What is Skiply Editions?
+
+- intent: IfIorderfromarestaurant,howdoIknowifitsanEditionskitchen
+  examples: |
+       - If I order from a restaurant, how do I know if it's an Editions kitchen?
+
+- intent: WhatisEditionstryingtodo
+  examples: |
+       - What is Editions trying to do?
+
+- intent: HowdoesSkiplyEditionswork
+  examples: |
+       - How does Skiply Editions work?
+
+- intent: IsmymealdifferentwhenitcomesfromEditions
+  examples: |
+       - Is my meal different when it comes from Editions?
+
+- intent: WhatisSkiplyPlus
+  examples: |
+       - What is Skiply Plus?
+
+- intent: HowdoIsignupforSkiplyPlus
+  examples: |
+       - How do I sign up for Skiply Plus?
+
+- intent: IstherealimittohowmanyordersIcanplace
+  examples: |
+       - Is there a limit to how many orders I can place?
+
+- intent: HowdoImanagemysubscription
+  examples: |
+       - How do I manage my subscription?
+
+- intent: WhenwillIbecharged
+  examples: |
+       - When will I be charged?
+
+- intent: CanIsharemyaccountwithothers
+  examples: |
+       - Can I share my account with others?
+
+- intent: HowcanIcancelmysubscription
+  examples: |
+       - How can I cancel my subscription?
+
+- intent: CanIchangemypaymentdate
+  examples: |
+       - Can I change my payment date?
+
+- intent: CanIgetmymoneybackifIwanttocancel
+  examples: |
+       - Can I get my money back if I want to cancel?
+
+- intent: DoIstillhavetopayservicefeesandsmallorderfees
+  examples: |
+       - Do I still have to pay service fees and small order fees?
+
+- intent: IamaSkiplyforBusinesscustomerCanIgetunlimitedfreedeliveryonordersplacedwithmycompanyallowance
+  examples: |
+       - I am a Skiply for Business customer. Can I get unlimited free delivery on orders placed with my company allowance?
+
+- intent: IdonthavetheSkiplyappCanIsubscribeonthewebsite
+  examples: |
+       - I don’t have the Skiply app. Can I subscribe on the website?
+
+- intent: Myvouchercodedoesntwork
+  examples: |
+       - My voucher code doesn’t work
+
+- intent: IveaccidentallycancelledmysubscriptionCanIresubscribe
+  examples: |
+       - I’ve accidentally cancelled my subscription. Can I re-subscribe?
+
+- intent: HowdoIusemyvouchertogetfreePlus 
+  examples: |
+       - How do I use my voucher to get free Plus? 
+
+- intent: IhaveavoucherforfreeSkiplyPlus–butIamstillseeingadeliveryfee
+  examples: |
+       - I have a voucher for free Skiply Plus – but I am still seeing a delivery fee
+
+- intent: IhaveavoucherforfreeSkiplyPlus,butImalreadyamemberCanIstillusemyvoucher
+  examples: |
+       - I have a voucher for free Skiply Plus, but I’m already a member. Can I still use my voucher?
+
+- intent: Youdontdelivertomyaddress,canIgiftthevouchertosomeoneelse
+  examples: |
+       - You don’t deliver to my address, can I gift the voucher to someone else?
+
+- intent: WhatdoIdoifIhaveachargeIdonotrecognise
+  examples: |
+       - What do I do if I have a charge I do not recognise?
+
+- intent: WhydoIstillseeachargeforacancelledorder
+  examples: |
+       - Why do I still see a charge for a cancelled order?
+
+- intent: HowdoIcheckthestatusofmyrefund
+  examples: |
+       - How do I check the status of my refund?
+
+- intent: IwassickafterconsumingfoodWhatdoIdo
+  examples: |
+       - I was sick after consuming food. What do I do?
+
+- intent: IfoundaforeignobjectinmyfoodWhatdoIdo
+  examples: |
+       - I found a foreign object in my food. What do I do?
+
+- intent: Ihadanallergicreactionafterconsumingmyfood
+  examples: |
+       - I had an allergic reaction after consuming my food
+
