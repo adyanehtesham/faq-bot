@@ -16,9 +16,10 @@ for ent in doc.ents:
 
 text.translate(str.maketrans('', '', string.punctuation))
 
-print("The total number of words is:", str(words))
 
+# shows how the words are dependent on each other
 displacy.serve(doc, style="dep")
+# show how certain words are identified
 displacy.serve(doc, style="ent")
 
 # Getting a list of tuples for the occurrences of all the words
