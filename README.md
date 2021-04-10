@@ -100,3 +100,11 @@ Here is the whole screen so it doesn't seem fake or anything.
 <img src="proof/4.png" width="30%"></img>
 
 <img src="proof/5.png" width="30%"></img>
+
+### Oh and also
+
+if you want to see the data anlaytics stuff run:
+
+```bash
+python3 analytics.py
+```
