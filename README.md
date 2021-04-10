@@ -89,12 +89,14 @@ Buy you can't because it probably won't be running. I need to run it from my com
 
 Here's proof tho:
 
-<img src="inAction/1.png"></img>
+<img src="proof/1.png" width="30%"></img>
 
-<img src="inAction/2.png"></img>
+<img src="proof/2.png" width="30%"></img>
 
-<img src="inAction/3.png"></img>
+Here is the whole screen so it doesn't seem fake or anything.
 
-<img src="inAction/4.png"></img>
+<img src="proof/3.png" width="30%"></img>
 
-<img src="inAction/5.png"></img>
+<img src="proof/4.png" width="30%"></img>
+
+<img src="proof/5.png" width="30%"></img>
