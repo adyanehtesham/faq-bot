@@ -346,3 +346,10 @@ stories:
   steps:
    - intent: Ihadanallergicreactionafterconsumingmyfood
    - action: utter_Ihadanallergicreactionafterconsumingmyfood
+
+- story: interactive_story_1
+  steps:
+  - intent: WhatisaPickuporder
+  - action: utter_WhatisaPickuporder
+  - intent: WhatisaPickuporder
+  - action: utter_WhatisaPickuporder

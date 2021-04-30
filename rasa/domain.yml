@@ -74,210 +74,210 @@ intents:
 - Ihadanallergicreactionafterconsumingmyfood
 responses:
   utter_WhatisaPickuporder:
-    - text:   A Pick-up order is when you place an order through the Eats app and you go to the restaurant to collect it.  You'll be able to see the different order stages and know exactly when the order is ready for you to collect.    NOTE Pick-up is only available in certain cities.   . . .  
+  - text: A Pick-up order is when you place an order through the Eats app and you go to the restaurant to collect it.  You'll be able to see the different order stages and know exactly when the order is ready for you to collect.    NOTE Pick-up is only available in certain cities.   . . .
   utter_WhatisaDineinorder:
-    - text:   A Dine-in order is when you place an order through the Eats app and you go to the restaurant to collect it.  You can then choose to sit in the restaurant to eat your food.    NOTE Dine-in  is only available in certain cities.   . . .  
+  - text: A Dine-in order is when you place an order through the Eats app and you go to the restaurant to collect it.  You can then choose to sit in the restaurant to eat your food.    NOTE Dine-in  is only available in certain cities.   . . .
   utter_WhatifIcantfindtherestaurant:
-    - text:   If you're having issues locating the restaurant you ordered from, reach out to the restaurant directly for further assistance.    . . .  
+  - text: If you're having issues locating the restaurant you ordered from, reach out to the restaurant directly for further assistance.    . . .
   utter_HowdoIorderPickup:
-    - text:   1.   Open the Skiply Eats app 2.   Choose the dining mode "Pick-up" 3.   Select "ASAP" order or "SCHEDULED" order.  You'll then be shown the prep time, restaurant distance, price and rating for restaurants with a Pick-up option. 4.   Once you've placed a Pick-up order, you'll be notified when the restaurant accepts the order, the estimated time the order will be ready, and when the order is ready for collection.  . . .  
+  - text: 1.   Open the Skiply Eats app 2.   Choose the dining mode "Pick-up" 3.   Select "ASAP" order or "SCHEDULED" order.  You'll then be shown the prep time, restaurant distance, price and rating for restaurants with a Pick-up option. 4.   Once you've placed a Pick-up order, you'll be notified when the restaurant accepts the order, the estimated time the order will be ready, and when the order is ready for collection.  . . .
   utter_HowdoIorderDinein:
-    - text:    1.   Open the Skiply Eats app 2.   Choose the dining mode "Dine-in" 3.   Select "ASAP" order or "SCHEDULED" order.  You'll then be shown the prep time, restaurant distance, price and rating for restaurants with a Dine-in option. 4.   Once you've placed a Dine-in order, you'll be notified when the restaurant accepts the order and the estimated time until the order is ready.  . . .  
+  - text: 1.   Open the Skiply Eats app 2.   Choose the dining mode "Dine-in" 3.   Select "ASAP" order or "SCHEDULED" order.  You'll then be shown the prep time, restaurant distance, price and rating for restaurants with a Dine-in option. 4.   Once you've placed a Dine-in order, you'll be notified when the restaurant accepts the order and the estimated time until the order is ready.  . . .
   utter_Whereismyordernumber:
-    - text:    The order identification number is located at the top of the tracking screen below your first name and last initial and on the receipt.  Every order has an order identification number to help you check that you're picking up the right order.  When you pick up the order, verify your order identification number with the restaurant.   . . .  
+  - text: The order identification number is located at the top of the tracking screen below your first name and last initial and on the receipt.  Every order has an order identification number to help you check that you're picking up the right order.  When you pick up the order, verify your order identification number with the restaurant.   . . .
   utter_IsorderingthroughSkiplysafe:
-    - text: Our absolute priority is to offer the safest service possible to customers, riders and restaurants and we have taken a number of important actions to ensure we deliver food safely for everyone. For example, we have introduced contact-free delivery, guidelines for restaurants on how to run delivery-only kitchens hygienically and guidance for riders on safe and secure delivery. We are in daily contact with local health officials to make sure we are offering customers, restaurants and riders the most up-to-date guidance and safest service possible. It’s also important to note that the European Food Safety Authority has said that there is “no evidence that food is a likely source or route of transmission of the virus”. We realise this is a concerning period for everyone and want to assure you that safety is our priority during and beyond this unprecedented time
+  - text: Our absolute priority is to offer the safest service possible to customers, riders and restaurants and we have taken a number of important actions to ensure we deliver food safely for everyone. For example, we have introduced contact-free delivery, guidelines for restaurants on how to run delivery-only kitchens hygienically and guidance for riders on safe and secure delivery. We are in daily contact with local health officials to make sure we are offering customers, restaurants and riders the most up-to-date guidance and safest service possible. It’s also important to note that the European Food Safety Authority has said that there is “no evidence that food is a likely source or route of transmission of the virus”. We realise this is a concerning period for everyone and want to assure you that safety is our priority during and beyond this unprecedented time
   utter_Howdoescontactfreedeliverywork:
-    - text: Customers can choose ‘Contact-free delivery’ at check-out. Riders will be able to see when a customer has selected this option in the order’s delivery notes and will then follow a simple process to ensure there is no contact when the food is delivered. Riders will be asked to let the customer know they have arrived, place the order outside their door, step a safe distance back and wait nearby for the customer to collect the food before the order can be completed. Riders are also able to make orders contact-less if they wish by letting customers know through the app before they arrive. 
+  - text: Customers can choose ‘Contact-free delivery’ at check-out. Riders will be able to see when a customer has selected this option in the order’s delivery notes and will then follow a simple process to ensure there is no contact when the food is delivered. Riders will be asked to let the customer know they have arrived, place the order outside their door, step a safe distance back and wait nearby for the customer to collect the food before the order can be completed. Riders are also able to make orders contact-less if they wish by letting customers know through the app before they arrive. 
   utter_Howareyousupportingriders:
-    - text: Since the outbreak of COVID-19 we have and continue to do everything we can to help ridersUp-to-date guidance Extensive hygiene guidance and updates are available on the rider website, as well as the latest information from the Government on how self-employed people like riders can access additional financial support.Skiply’s Rider Support Fund If a rider who regularly works with Skiply does experience symptoms of COVID-19 or is told to self-isolate by a medical authority, they can also apply for financial help through our Rider Support Fund.Contact-free pick up & delivery We’ve introduced contact-free pick up and delivery across the UK which means riders can work without coming into direct contact with restaurant staff or customers.Free products Riders can apply for a payment of up to £20 to cover the purchase of hygiene products like hand sanitiser or face masks while we work to secure our own supply.Support from restaurants We have asked all of our restaurant partners to provide riders with access to soap and water or hand sanitising gel at their property whenever possible.
+  - text: Since the outbreak of COVID-19 we have and continue to do everything we can to help ridersUp-to-date guidance Extensive hygiene guidance and updates are available on the rider website, as well as the latest information from the Government on how self-employed people like riders can access additional financial support.Skiply’s Rider Support Fund If a rider who regularly works with Skiply does experience symptoms of COVID-19 or is told to self-isolate by a medical authority, they can also apply for financial help through our Rider Support Fund.Contact-free pick up & delivery We’ve introduced contact-free pick up and delivery across the UK which means riders can work without coming into direct contact with restaurant staff or customers.Free products Riders can apply for a payment of up to £20 to cover the purchase of hygiene products like hand sanitiser or face masks while we work to secure our own supply.Support from restaurants We have asked all of our restaurant partners to provide riders with access to soap and water or hand sanitising gel at their property whenever possible.
   utter_Howareyousupportingrestaurants:
-    - text: We are here to deliver for restaurants who want to carry on offering their amazing food to families at home during this difficult time. We are working with restaurants to optimise their operations for delivery, and we are doing everything we can to make sure people still have access to the food they want and need.We havePublished detailed guidance on how restaurants can run delivery-only outlets safely, covering issues such as how to minimise contact, packaging and hygiene best practice.Developed bespoke online marketing support for restaurants to let customers know they are operating delivery servicesEstablished teams of people across the business to recruit and support restaurants who want to be able to deliver food.Lowered onboarding fees for new restaurantsDeveloped an app to introduce ‘contact-free delivery’ so that restaurants can give confidence to consumers that delivery is conducted safelyShared expert advice and guidance on how to operate safely during the outbreakCampaigned for more support for restaurants from government 
+  - text: We are here to deliver for restaurants who want to carry on offering their amazing food to families at home during this difficult time. We are working with restaurants to optimise their operations for delivery, and we are doing everything we can to make sure people still have access to the food they want and need.We havePublished detailed guidance on how restaurants can run delivery-only outlets safely, covering issues such as how to minimise contact, packaging and hygiene best practice.Developed bespoke online marketing support for restaurants to let customers know they are operating delivery servicesEstablished teams of people across the business to recruit and support restaurants who want to be able to deliver food.Lowered onboarding fees for new restaurantsDeveloped an app to introduce ‘contact-free delivery’ so that restaurants can give confidence to consumers that delivery is conducted safelyShared expert advice and guidance on how to operate safely during the outbreakCampaigned for more support for restaurants from government 
   utter_WhatwillhappenifIhaveanoutstandingqueryorcomplaint:
-    - text: Our customer care team is on hand to support our customers with any outstanding queries or complaints. We are experiencing high demand but all outstanding queries and complaints will be dealt with promptly.
+  - text: Our customer care team is on hand to support our customers with any outstanding queries or complaints. We are experiencing high demand but all outstanding queries and complaints will be dealt with promptly.
   utter_HowcanIkeepintouchwithyou:
-    - text: We have dedicated teams in place to support our customers, riders and restaurant partners during this worrying time. Please send us an email to support@Skiply.co.uk, or you can send a message in-app or via Twitter and Facebook.About Skiply
+  - text: We have dedicated teams in place to support our customers, riders and restaurant partners during this worrying time. Please send us an email to support@Skiply.co.uk, or you can send a message in-app or via Twitter and Facebook.About Skiply
   utter_WhatisSkiply:
-    - text: Skiply is on a mission to transform the way you order food. We partner with the best restaurants in the business – from local hotspots to national favourites – and bring you the food you love, right to your door.With thousands of choices and a fleet of our own delivery riders, we’ll have your order with you in as little as 30 minutes.
+  - text: Skiply is on a mission to transform the way you order food. We partner with the best restaurants in the business – from local hotspots to national favourites – and bring you the food you love, right to your door.With thousands of choices and a fleet of our own delivery riders, we’ll have your order with you in as little as 30 minutes.
   utter_WhatisthestorybehindSkiply:
-    - text: When Will Shu moved to London, Skiply’s founder and CEO, he was surprised to find that it was nearly impossible to get great quality food delivered. He made it his personal mission to bring the best local restaurants direct to customers’ doors. The business was launched in 2013 with Will as our very first rider.Seven years on, we now operate in over 200 towns and cities across the UK, Skiply is headquartered in London, with over 2,500 employees in offices around the globe, working with 35,000 partner restaurants and engaging 30,000 self-employed riders.Using Skiply
+  - text: When Will Shu moved to London, Skiply’s founder and CEO, he was surprised to find that it was nearly impossible to get great quality food delivered. He made it his personal mission to bring the best local restaurants direct to customers’ doors. The business was launched in 2013 with Will as our very first rider.Seven years on, we now operate in over 200 towns and cities across the UK, Skiply is headquartered in London, with over 2,500 employees in offices around the globe, working with 35,000 partner restaurants and engaging 30,000 self-employed riders.Using Skiply
   utter_Howdoesitwork:
-    - text: You can order either on the website or by using the Skiply app, available on iOS and Android. Simply add your postcode to find all the great restaurants delivering in your area, choose your food and place your order.Once the restaurant receives your order, they’ll get to work preparing your food and then carefully package it. Once it's all ready to go, a Skiply rider will pick it up and bring it to you.If you want to be super-organised, you can also order up to 24 hours in advance with a scheduled delivery.
+  - text: You can order either on the website or by using the Skiply app, available on iOS and Android. Simply add your postcode to find all the great restaurants delivering in your area, choose your food and place your order.Once the restaurant receives your order, they’ll get to work preparing your food and then carefully package it. Once it's all ready to go, a Skiply rider will pick it up and bring it to you.If you want to be super-organised, you can also order up to 24 hours in advance with a scheduled delivery.
   utter_WhatkindofrestaurantsarelistedonSkiply:
-    - text: We personally curate a high-quality and diverse selection of restaurants in your area. This can range from a top neighbourhood Italian trattoria to well-regarded national burger chain.
+  - text: We personally curate a high-quality and diverse selection of restaurants in your area. This can range from a top neighbourhood Italian trattoria to well-regarded national burger chain.
   utter_WhattimescanIorderfor:
-    - text: We deliver every day from morning until late at night, and different restaurants will have different opening times. Visit the homepage or the app to see which restaurants are available in your area.
+  - text: We deliver every day from morning until late at night, and different restaurants will have different opening times. Visit the homepage or the app to see which restaurants are available in your area.
   utter_Howisthefooddeliveredtome:
-    - text: Once you’ve placed your order, it’s sent directly to the restaurant for them to prepare and package. Once it’s ready, a Skiply rider will pick up your order and bring it to your delivery address.
+  - text: Once you’ve placed your order, it’s sent directly to the restaurant for them to prepare and package. Once it’s ready, a Skiply rider will pick up your order and bring it to your delivery address.
   utter_WhydoesntSkiplyacceptcash:
-    - text: We only take card payments because it lets us provide you with the best possible experience. It creates a safer working environment for riders too. You can tip your rider through the Skiply app after you have received your order. 
+  - text: We only take card payments because it lets us provide you with the best possible experience. It creates a safer working environment for riders too. You can tip your rider through the Skiply app after you have received your order. 
   utter_DoIhavetotip:
-    - text: Whether you tip or not is completely up to you. You can tip in the app after your rider has delivered your order to you. Riders receive 100% of all tips.
+  - text: Whether you tip or not is completely up to you. You can tip in the app after your rider has delivered your order to you. Riders receive 100% of all tips.
   utter_Isthereaminimumspend:
-    - text: The minimum order amount can vary depending on which restaurant you’re ordering from. If there’s a minimum order amount, you’ll be informed at checkout before you place your order.
+  - text: The minimum order amount can vary depending on which restaurant you’re ordering from. If there’s a minimum order amount, you’ll be informed at checkout before you place your order.
   utter_HowdoIredeemavouchercode:
-    - text: If you have a voucher code, you can redeem this in the app or on the website.If you’re using the app, go to your account and add the code into the ‘Enter a Promo Code’ field. On the website, click ‘Add a Code’ on the checkout page.
+  - text: If you have a voucher code, you can redeem this in the app or on the website.If you’re using the app, go to your account and add the code into the ‘Enter a Promo Code’ field. On the website, click ‘Add a Code’ on the checkout page.
   utter_Doyouchargethesamepricesastherestaurantdoesintherestaurant:
-    - text: We encourage restaurants to always use the same pricing for delivery as they do for their in-house menu, although there may be exceptions. Pricing for each menu item is clearly displayed in the app. If you have any questions about menu pricing, please contact the restaurant directly.
+  - text: We encourage restaurants to always use the same pricing for delivery as they do for their in-house menu, although there may be exceptions. Pricing for each menu item is clearly displayed in the app. If you have any questions about menu pricing, please contact the restaurant directly.
   utter_CanIplaceordersinadvance:
-    - text: Yes! You can schedule orders for up to one day in advance and choose any delivery time from midday onwards.
+  - text: Yes! You can schedule orders for up to one day in advance and choose any delivery time from midday onwards.
   utter_CanIcollectmyorder:
-    - text: Yes. You can use Skiply’s Pickup service to collect orders from participating restaurants nearby. Use the app to find out which restaurants offer Pickup in your area. 
+  - text: Yes. You can use Skiply’s Pickup service to collect orders from participating restaurants nearby. Use the app to find out which restaurants offer Pickup in your area. 
   utter_WhatifIwanttocancelmyorder:
-    - text: As long as the restaurant has not yet started preparing your order, you're able to cancel your order in order help. If the restaurant has already started preparing your order and you want to cancel, please get in touch with us, you can do this in order help as well.
+  - text: As long as the restaurant has not yet started preparing your order, you're able to cancel your order in order help. If the restaurant has already started preparing your order and you want to cancel, please get in touch with us, you can do this in order help as well.
   utter_Howisthefoodpackaged:
-    - text: Packaging always depends on the type of food and restaurant you’re ordering from. Restaurants take great care to use packaging that maintains the correct temperature for as long as possible.If you have suggestions regarding the packaging or appearance of your food when it’s delivered, please contact us on support@Skiply.co.uk and we’ll pass on your feedback to the restaurant.
+  - text: Packaging always depends on the type of food and restaurant you’re ordering from. Restaurants take great care to use packaging that maintains the correct temperature for as long as possible.If you have suggestions regarding the packaging or appearance of your food when it’s delivered, please contact us on support@Skiply.co.uk and we’ll pass on your feedback to the restaurant.
   utter_Whatifsomethingiswrongwithmyorder:
-    - text: s about my order
+  - text: s about my order
   utter_WhatifIwanttoaddsomethingtomyorder:
-    - text: We have a dedicated team that looks after your entire Skiply experience, from the moment you place an order right through to it arriving with you.However, we do understand that sometimes things might go wrong. If this is the case, you can use the Help function in the Skiply app to speak to our customer service team and report any issues.You can also contact us at support@Skiply.co.uk.
+  - text: We have a dedicated team that looks after your entire Skiply experience, from the moment you place an order right through to it arriving with you.However, we do understand that sometimes things might go wrong. If this is the case, you can use the Help function in the Skiply app to speak to our customer service team and report any issues.You can also contact us at support@Skiply.co.uk.
   utter_Whatifmyorderislate:
-    - text: You can contact our Customer Service team via the Help function in the app and we’ll do our best to make sure you get all the items you want added to your order.
+  - text: You can contact our Customer Service team via the Help function in the app and we’ll do our best to make sure you get all the items you want added to your order.
   utter_WhatifImnotaroundwhenmyriderarrives:
-    - text: Sometimes things outside of a rider’s control can cause a delay. Where we can, we will always try and proactively call you if we become aware that your order might not arrive within the estimated time of delivery, and our team will work to get your order to you as quickly as possible.
+  - text: Sometimes things outside of a rider’s control can cause a delay. Where we can, we will always try and proactively call you if we become aware that your order might not arrive within the estimated time of delivery, and our team will work to get your order to you as quickly as possible.
   utter_Igotacallfrom4401134679062—whoisthis:
-    - text: If you think you won’t be at the delivery address in time to receive your order, please let us know by using the Help function in the Skiply app.Your rider will always try to call you if there’s an issue once they reach your delivery address. If they’re unable to contact you, our Customer Service team will try and reach you via phone and email. Please check your emails during the delivery time for any updates.If we can’t contact you and are unable to deliver the order, your rider will wait for up to 10 minutes before leaving. In this event, you’ll still be charged for your order. To prevent this from happening, it’s always a good idea to double-check your contact and address details.
+  - text: If you think you won’t be at the delivery address in time to receive your order, please let us know by using the Help function in the Skiply app.Your rider will always try to call you if there’s an issue once they reach your delivery address. If they’re unable to contact you, our Customer Service team will try and reach you via phone and email. Please check your emails during the delivery time for any updates.If we can’t contact you and are unable to deliver the order, your rider will wait for up to 10 minutes before leaving. In this event, you’ll still be charged for your order. To prevent this from happening, it’s always a good idea to double-check your contact and address details.
   utter_HowdofeesworkonSkiply:
-    - text: To check where you are, your rider might call you using the Leeds phone number 01134679062. It’ll really help your rider if you can keep your phone close and answer these calls if you get one.Fees on Skiply
+  - text: To check where you are, your rider might call you using the Leeds phone number 01134679062. It’ll really help your rider if you can keep your phone close and answer these calls if you get one.Fees on Skiply
   utter_ImnotanewuserCanIgetfreecreditifIsignup:
-    - text: Delivery feeThe closer you are to the restaurant, the lower your delivery fee. This helps us pay riders fairly.Some restaurants use their own delivery drivers. In that case, the restaurant sets its own delivery fee.Service feeThis helps us give you 24/7 customer service and keep improving the app.Small order feeWhen your total is less than the restaurant's minimum, you can still place the order but we'll top it up with a fee. To remove the fee, just add more to your basket.Inviting friends
+  - text: Delivery feeThe closer you are to the restaurant, the lower your delivery fee. This helps us pay riders fairly.Some restaurants use their own delivery drivers. In that case, the restaurant sets its own delivery fee.Service feeThis helps us give you 24/7 customer service and keep improving the app.Small order feeWhen your total is less than the restaurant's minimum, you can still place the order but we'll top it up with a fee. To remove the fee, just add more to your basket.Inviting friends
   utter_Icantseeaninvitelink–whereisit:
-    - text: Sorry, this offer is only valid for new users of Skiply. And don't keep making accounts, we'll know! (And you wouldn't like us when we're angry). To find out more, please go to our T&C's.
+  - text: Sorry, this offer is only valid for new users of Skiply. And don't keep making accounts, we'll know! (And you wouldn't like us when we're angry). To find out more, please go to our T&C's.
   utter_WhatifIhaveallergies:
-    - text: You need to have ordered a certain number of times to get your invite link. Once you’ve ordered several times, we’ll email you your link so you can share it with your friends, family, colleagues, anyone and everyone.Anything else?
+  - text: You need to have ordered a certain number of times to get your invite link. Once you’ve ordered several times, we’ll email you your link so you can share it with your friends, family, colleagues, anyone and everyone.Anything else?
   utter_AreCBDproductsavailableonSkiply :
-    - text: If you have specific allergies and are concerned about any items on a menu, please check the restaurant notes section of the restaurant menu and for further information contact the restaurant directly prior to ordering. Increasing numbers of Partner Restaurants will be displaying dish by dish allergens information. Where that information is not available or if you have further questions, please contact the restaurant prior to ordering if you have an allergy.
+  - text: If you have specific allergies and are concerned about any items on a menu, please check the restaurant notes section of the restaurant menu and for further information contact the restaurant directly prior to ordering. Increasing numbers of Partner Restaurants will be displaying dish by dish allergens information. Where that information is not available or if you have further questions, please contact the restaurant prior to ordering if you have an allergy.
   utter_Whenwillyoubedeliveringinmyarea:
-    - text: Some of our partners offer products containing CBD for sale on our platform. It is their responsibility to ensure those products comply with applicable law and are safe for you to use and consume. Please remember that CBD products arenot intended to treat, cure or prevent any disease; not suitable for those aged under 18 and proof of age may be required on delivery (for more detail on our age verification policy, see our Terms and Conditions); not suitable for women who are pregnant or breastfeeding; not suitable for people taking medication; andnot suitable for those with an intolerance or allergy to CBD or hemp derived products.The UK Food Standards Agency recommends that healthy adults should consume no more than 70mg of CBD per day.If you have any health concerns, please contact a healthcare professional before using or consuming any products containing CBD.
+  - text: Some of our partners offer products containing CBD for sale on our platform. It is their responsibility to ensure those products comply with applicable law and are safe for you to use and consume. Please remember that CBD products arenot intended to treat, cure or prevent any disease; not suitable for those aged under 18 and proof of age may be required on delivery (for more detail on our age verification policy, see our Terms and Conditions); not suitable for women who are pregnant or breastfeeding; not suitable for people taking medication; andnot suitable for those with an intolerance or allergy to CBD or hemp derived products.The UK Food Standards Agency recommends that healthy adults should consume no more than 70mg of CBD per day.If you have any health concerns, please contact a healthcare professional before using or consuming any products containing CBD.
   utter_DoesSkiplyoffercompanyaccounts:
-    - text: We are rapidly expanding and will hopefully be working with restaurants near you soon!
+  - text: We are rapidly expanding and will hopefully be working with restaurants near you soon!
   utter_IsthereaSkiplyapp:
-    - text: We have a dedicated team who will be more than happy to assist you with setting up an account so you can get team morale-boosting breakfasts, next-level meeting lunches and even catering. Get in touch with us at corporate@Skiply.co.uk.
+  - text: We have a dedicated team who will be more than happy to assist you with setting up an account so you can get team morale-boosting breakfasts, next-level meeting lunches and even catering. Get in touch with us at corporate@Skiply.co.uk.
   utter_WhatisSkiplyEditions:
-    - text: There is! It’s available free on the App Store and Google Play.Skiply Editions
+  - text: There is! It’s available free on the App Store and Google Play.Skiply Editions
   utter_IfIorderfromarestaurant,howdoIknowifitsanEditionskitchen:
-    - text: Skiply Editions are hubs where we host collections of hand-picked restaurants, all specially designed for delivery. They're how we make good on the promise that got Skiply started to connect you with great food from great restaurants, wherever you are, and whatever it takes. Skiply Editions are also a platform to support start-up restaurants, helping hot new chefs launch for the first time, or well-loved restaurants reach fans in new places.
+  - text: Skiply Editions are hubs where we host collections of hand-picked restaurants, all specially designed for delivery. They're how we make good on the promise that got Skiply started to connect you with great food from great restaurants, wherever you are, and whatever it takes. Skiply Editions are also a platform to support start-up restaurants, helping hot new chefs launch for the first time, or well-loved restaurants reach fans in new places.
   utter_WhatisEditionstryingtodo:
-    - text: Editions kitchens are listed as separate restaurants on our platform - they are clearly labeled as being an Editions partner, and you can order on both the website and the app. When you order from a non-Editions restaurant, your meal will always come from that restaurant, not an Editions kitchen. Whether you chose to order from an Editions kitchen or not, you’ll always be delivered great food made locally.
+  - text: Editions kitchens are listed as separate restaurants on our platform - they are clearly labeled as being an Editions partner, and you can order on both the website and the app. When you order from a non-Editions restaurant, your meal will always come from that restaurant, not an Editions kitchen. Whether you chose to order from an Editions kitchen or not, you’ll always be delivered great food made locally.
   utter_HowdoesSkiplyEditionswork:
-    - text: Since Skiply started, we've learned a lot about the restaurant industry and about you, our customers. Our restaurant partners have to spend up to a million pounds to launch a new restaurant in a city centre. From customers, we've learned you have really varied tastes – some of you order 10 different cuisines per month – and love the ability to explore exciting food from your homes.But when you put the two facts together, we realised that although restaurants want to reach people in residential areas, it's sometimes just not possible. Setting up a restaurant always includes a fair amount of risk. What if the location isn't right? Or how do you find the secret sauce to success, before the money runs out? Even some of the world's top rated chefs have described moments on Netflix's 'Chef's Table' when they thought they might have to close their doors.We wanted to help solve this. To connect our customers who want to eat great, exciting food without always travelling into the centre of a city, with the restaurants who want to reach them.Skiply Editions bridges this gap perfectly we bring brilliant food to people all over the world as well as provide the ability to help restaurants launch with zero start-up costs.
+  - text: Since Skiply started, we've learned a lot about the restaurant industry and about you, our customers. Our restaurant partners have to spend up to a million pounds to launch a new restaurant in a city centre. From customers, we've learned you have really varied tastes – some of you order 10 different cuisines per month – and love the ability to explore exciting food from your homes.But when you put the two facts together, we realised that although restaurants want to reach people in residential areas, it's sometimes just not possible. Setting up a restaurant always includes a fair amount of risk. What if the location isn't right? Or how do you find the secret sauce to success, before the money runs out? Even some of the world's top rated chefs have described moments on Netflix's 'Chef's Table' when they thought they might have to close their doors.We wanted to help solve this. To connect our customers who want to eat great, exciting food without always travelling into the centre of a city, with the restaurants who want to reach them.Skiply Editions bridges this gap perfectly we bring brilliant food to people all over the world as well as provide the ability to help restaurants launch with zero start-up costs.
   utter_IsmymealdifferentwhenitcomesfromEditions:
-    - text: We combine our customer insight, logistics experience and relationships with restaurants all over the world to bring an Edition to you.Using the technology that powers Skiply, we first identify an area that would most benefit from their own Editions hub. We then delve deeper into exactly what's missing from those local areas and what food our customers are craving.Once we know what's needed, we get to work, trying amazing dishes and partnering with the best restaurateurs in the business to fill the gap. That could be anyone from new chefs with great ideas, to high street favourites, as well as exclusive collaborations with the likes of Michelin-starred Karam Sethi. The choice is yours.Restaurants then design their kitchens hosted in a Skiply Edition. Given their delivery only nature, the chefs are focused solely on creating the ultimate home dining experience.The result? A community-tailored collection of restaurants, providing the gold standard of food delivery.
+  - text: We combine our customer insight, logistics experience and relationships with restaurants all over the world to bring an Edition to you.Using the technology that powers Skiply, we first identify an area that would most benefit from their own Editions hub. We then delve deeper into exactly what's missing from those local areas and what food our customers are craving.Once we know what's needed, we get to work, trying amazing dishes and partnering with the best restaurateurs in the business to fill the gap. That could be anyone from new chefs with great ideas, to high street favourites, as well as exclusive collaborations with the likes of Michelin-starred Karam Sethi. The choice is yours.Restaurants then design their kitchens hosted in a Skiply Edition. Given their delivery only nature, the chefs are focused solely on creating the ultimate home dining experience.The result? A community-tailored collection of restaurants, providing the gold standard of food delivery.
   utter_WhatisSkiplyPlus:
-    - text: No. Editions kitchens use the same great chefs, ingredients and recipes to bring you the best food. With Editions you get the great food, cooked and prepared the way you love.Skiply Plus
+  - text: No. Editions kitchens use the same great chefs, ingredients and recipes to bring you the best food. With Editions you get the great food, cooked and prepared the way you love.Skiply Plus
   utter_HowdoIsignupforSkiplyPlus:
-    - text: Skiply Plus is our subscription membership plan – you pay a fee and get free delivery from participating restaurants when you meet the minimum order requirements. It’s a simple, easy way to get the most out of Skiply.Members benefit from exclusive restaurant offers, which aren’t available to other customers.
+  - text: Skiply Plus is our subscription membership plan – you pay a fee and get free delivery from participating restaurants when you meet the minimum order requirements. It’s a simple, easy way to get the most out of Skiply.Members benefit from exclusive restaurant offers, which aren’t available to other customers.
   utter_IstherealimittohowmanyordersIcanplace:
-    - text: Some customers will see the option to sign up to Plus on our website or app.
+  - text: Some customers will see the option to sign up to Plus on our website or app.
   utter_HowdoImanagemysubscription:
-    - text: No. You can place as many orders as you like. However, it’s intended for use by individuals. All orders placed with Plus must stay in line with Skiply’s Terms & Conditions of Service.
+  - text: No. You can place as many orders as you like. However, it’s intended for use by individuals. All orders placed with Plus must stay in line with Skiply’s Terms & Conditions of Service.
   utter_WhenwillIbecharged:
-    - text: Go to your Account – you’ll be able to change your subscription payment method, see your next payment date and more.
+  - text: Go to your Account – you’ll be able to change your subscription payment method, see your next payment date and more.
   utter_CanIsharemyaccountwithothers:
-    - text: Go to your Account to check your next payment date.
+  - text: Go to your Account to check your next payment date.
   utter_HowcanIcancelmysubscription:
-    - text: No. Sharing your Skiply Plus subscription is a violation of your subscription terms, and could mean we review your Account access in line with our Skiply Plus Terms & Conditions of Service.
+  - text: No. Sharing your Skiply Plus subscription is a violation of your subscription terms, and could mean we review your Account access in line with our Skiply Plus Terms & Conditions of Service.
   utter_CanIchangemypaymentdate:
-    - text: Go to your Account and select Cancel subscription. Or, you can contact us at support@Skiply.co.uk.
+  - text: Go to your Account and select Cancel subscription. Or, you can contact us at support@Skiply.co.uk.
   utter_CanIgetmymoneybackifIwanttocancel:
-    - text: No. You can see your next payment date in your Account.
+  - text: No. You can see your next payment date in your Account.
   utter_DoIstillhavetopayservicefeesandsmallorderfees:
-    - text: Yes. You can contact us for a full refund within the first 14 days of your paid-for period. If you cancel after the 14-day cooling off period, you will not be refunded.Get in touch with us at support@Skiply.co.uk.
+  - text: Yes. You can contact us for a full refund within the first 14 days of your paid-for period. If you cancel after the 14-day cooling off period, you will not be refunded.Get in touch with us at support@Skiply.co.uk.
   utter_IamaSkiplyforBusinesscustomerCanIgetunlimitedfreedeliveryonordersplacedwithmycompanyallowance:
-    - text: Yes, you will need to pay service fees for all orders placed with Plus, and small order fees wherever applicable. 
+  - text: Yes, you will need to pay service fees for all orders placed with Plus, and small order fees wherever applicable. 
   utter_IdonthavetheSkiplyappCanIsubscribeonthewebsite:
-    - text: No. Your free delivery won’t apply to orders you place using your company allowance. If you have a company allowance on your account, you can still get free delivery on personal orders when you don’t use your company allowance.Subscribing to Skiply Plus using a voucher
+  - text: No. Your free delivery won’t apply to orders you place using your company allowance. If you have a company allowance on your account, you can still get free delivery on personal orders when you don’t use your company allowance.Subscribing to Skiply Plus using a voucher
   utter_Myvouchercodedoesntwork:
-    - text: Yes. First, create an account by tapping the menu at the top right and selecting Sign up or log in. After you’ve signed up, select a restaurant and add items to your basket. Once you’re at the checkout, tap Add promo code. Paste your code there and tap Submit. From there, follow the instructions to join Skiply Plus.
+  - text: Yes. First, create an account by tapping the menu at the top right and selecting Sign up or log in. After you’ve signed up, select a restaurant and add items to your basket. Once you’re at the checkout, tap Add promo code. Paste your code there and tap Submit. From there, follow the instructions to join Skiply Plus.
   utter_IveaccidentallycancelledmysubscriptionCanIresubscribe:
-    - text: Please contact support@Skiply.co.uk with details of the email and voucher code you received and explaining what the problem is.get in touch with the company you received the voucher code from and they should be able to help you. 
+  - text: Please contact support@Skiply.co.uk with details of the email and voucher code you received and explaining what the problem is.get in touch with the company you received the voucher code from and they should be able to help you. 
   utter_HowdoIusemyvouchertogetfreePlus :
-    - text: Yes. You don’t need to use your voucher code again, your original subscription expiry date will apply. You will gain access to your subscription again by signing up via the sign up page Skiply.co.uk/plus.
+  - text: Yes. You don’t need to use your voucher code again, your original subscription expiry date will apply. You will gain access to your subscription again by signing up via the sign up page Skiply.co.uk/plus.
   utter_IhaveavoucherforfreeSkiplyPlus–butIamstillseeingadeliveryfee:
-    - text: First, download the Skiply app and sign in. (Don’t have a Skiply account? Tap the Account icon at the top right and select Sign up or log in) Select Account at the top right, then Vouchers and credit. Tap Add code in the top right corner (iOS) or the ‘+’ button in the bottom right corner (Android). You’ll see a place to add a new voucher code. Paste your code there and tap Submit. From there, follow the instructions to join Skiply Plus. 
+  - text: First, download the Skiply app and sign in. (Don’t have a Skiply account? Tap the Account icon at the top right and select Sign up or log in) Select Account at the top right, then Vouchers and credit. Tap Add code in the top right corner (iOS) or the ‘+’ button in the bottom right corner (Android). You’ll see a place to add a new voucher code. Paste your code there and tap Submit. From there, follow the instructions to join Skiply Plus. 
   utter_IhaveavoucherforfreeSkiplyPlus,butImalreadyamemberCanIstillusemyvoucher:
-    - text: After you’ve added your voucher code, you still need to join Skiply Plus to get free delivery. Go to your Account and then Skiply Plus to check if you’re subscribed.  Some of our partners also have a minimum order value that you need to meet before you can enjoy free delivery on that order.
+  - text: After you’ve added your voucher code, you still need to join Skiply Plus to get free delivery. Go to your Account and then Skiply Plus to check if you’re subscribed.  Some of our partners also have a minimum order value that you need to meet before you can enjoy free delivery on that order.
   utter_Youdontdelivertomyaddress,canIgiftthevouchertosomeoneelse:
-    - text: Yes. Select Account at the top right, then Vouchers and credit. Tap Add code in the top right corner. You’ll see a place to add a new voucher code. Paste your code there and tap Submit. Your free period will automatically be applied to your subscription. 
+  - text: Yes. Select Account at the top right, then Vouchers and credit. Tap Add code in the top right corner. You’ll see a place to add a new voucher code. Paste your code there and tap Submit. Your free period will automatically be applied to your subscription. 
   utter_WhatdoIdoifIhaveachargeIdonotrecognise:
-    - text: Yes, Voucher codes may be used by individuals other than yourself if you choose to send the voucher code to another individual (but they can only be redeemed once). Full terms and conditions here. Payments
+  - text: Yes, Voucher codes may be used by individuals other than yourself if you choose to send the voucher code to another individual (but they can only be redeemed once). Full terms and conditions here. Payments
   utter_WhydoIstillseeachargeforacancelledorder:
-    - text: Skiply finds that unrecognised charges can often be attributed to a friend, coworker, or family member using your payment method. We ask that you check with your family and friends to see if they may have used your card to place an order via Skiply.Otherwise please contact us on support@Skiply.co.uk with the followingLast four digits of the credit or debit card usedThe card issuing company (such as Visa or MasterCard)The expiry date of your cardThe dates and amounts of the transactionsThe country and currency registered to your cardThe debiting party (eg. SkiplyCOUK, SkiplyIE)The email address associated to your Skiply account (if user)
+  - text: Skiply finds that unrecognised charges can often be attributed to a friend, coworker, or family member using your payment method. We ask that you check with your family and friends to see if they may have used your card to place an order via Skiply.Otherwise please contact us on support@Skiply.co.uk with the followingLast four digits of the credit or debit card usedThe card issuing company (such as Visa or MasterCard)The expiry date of your cardThe dates and amounts of the transactionsThe country and currency registered to your cardThe debiting party (eg. SkiplyCOUK, SkiplyIE)The email address associated to your Skiply account (if user)
   utter_HowdoIcheckthestatusofmyrefund:
-    - text: It may take a few days for the payment to disappear from your account statement, but don't worry – we won't take any money for this order. If you can still see the transaction on your bank statement after 3 working days please contact our support teams.
+  - text: It may take a few days for the payment to disappear from your account statement, but don't worry – we won't take any money for this order. If you can still see the transaction on your bank statement after 3 working days please contact our support teams.
   utter_IwassickafterconsumingfoodWhatdoIdo:
-    - text: 1) Your full or partial refund was processed shortly after you have placed the order but is not appearing on your bank statement.If your refund was processed within 8 hours of placing your order, the payment will show as voided. This means you were never actually debited for your order. Instead, the funds for this transaction would have returned to general availability in your bank account after 72 hours.2) You can't see the full amount of your refund returned on your bank statement?If you've paid for your order partially with card and part credit, this might be the reason. Our refunds reflect the ratio of Skiply Credit to card payment that is used to place the original order. For example, If 50% of an order was paid for by credit, then 50% of any sized refund on that order will return to a customer's Skiply account as credit. If this was not the case then please contact us on support@Skiply.co.uk. Food Safety
+  - text: 1) Your full or partial refund was processed shortly after you have placed the order but is not appearing on your bank statement.If your refund was processed within 8 hours of placing your order, the payment will show as voided. This means you were never actually debited for your order. Instead, the funds for this transaction would have returned to general availability in your bank account after 72 hours.2) You can't see the full amount of your refund returned on your bank statement?If you've paid for your order partially with card and part credit, this might be the reason. Our refunds reflect the ratio of Skiply Credit to card payment that is used to place the original order. For example, If 50% of an order was paid for by credit, then 50% of any sized refund on that order will return to a customer's Skiply account as credit. If this was not the case then please contact us on support@Skiply.co.uk. Food Safety
   utter_IfoundaforeignobjectinmyfoodWhatdoIdo:
-    - text: Food safety is a top priority for us, therefore, please contact us through order help or by sending an email to support@Skiply.co.uk and provide us with answers to the following questions so our team can assist you immediatelyHave you been sick after consuming your order?What symptoms did you have?What dish(es) did you eat/drink?When did your symptoms start appearing, and how long did they last for?Did you seek medical attention? If you visited a doctor, please let us know of any medicine they prescribed for youDid anyone else who shared your meal feel unwell afterwards?If you could also please let us know if you give consent to pass your contact details (name, phone number, and email) on to the restaurant for further investigation. 
+  - text: Food safety is a top priority for us, therefore, please contact us through order help or by sending an email to support@Skiply.co.uk and provide us with answers to the following questions so our team can assist you immediatelyHave you been sick after consuming your order?What symptoms did you have?What dish(es) did you eat/drink?When did your symptoms start appearing, and how long did they last for?Did you seek medical attention? If you visited a doctor, please let us know of any medicine they prescribed for youDid anyone else who shared your meal feel unwell afterwards?If you could also please let us know if you give consent to pass your contact details (name, phone number, and email) on to the restaurant for further investigation. 
   utter_Ihadanallergicreactionafterconsumingmyfood:
-    - text: Please contact us through order help or by sending an email to support@Skiply.co.uk and provide us with answers to the following questions so our team can assist you immediately What was the unexpected object you found?Where did you find the object?Did you eat/drink the affected item(s)?Clear photographs of the object and affected item(s)If you could also please let us know if you give consent to pass your contact details (name, phone number, and email) on to the restaurant for further investigation. 
+  - text: Please contact us through order help or by sending an email to support@Skiply.co.uk and provide us with answers to the following questions so our team can assist you immediately What was the unexpected object you found?Where did you find the object?Did you eat/drink the affected item(s)?Clear photographs of the object and affected item(s)If you could also please let us know if you give consent to pass your contact details (name, phone number, and email) on to the restaurant for further investigation. 
 actions:
-- utter_WhatisaPickuporder
-- utter_WhatisaDineinorder
-- utter_WhatifIcantfindtherestaurant
-- utter_HowdoIorderPickup
-- utter_HowdoIorderDinein
-- utter_Whereismyordernumber
-- utter_IsorderingthroughSkiplysafe
-- utter_Howdoescontactfreedeliverywork
-- utter_Howareyousupportingriders
+- utter_AreCBDproductsavailableonSkiply 
+- utter_CanIchangemypaymentdate
+- utter_CanIcollectmyorder
+- utter_CanIgetmymoneybackifIwanttocancel
+- utter_CanIplaceordersinadvance
+- utter_CanIsharemyaccountwithothers
+- utter_DoIhavetotip
+- utter_DoIstillhavetopayservicefeesandsmallorderfees
+- utter_DoesSkiplyoffercompanyaccounts
+- utter_Doyouchargethesamepricesastherestaurantdoesintherestaurant
 - utter_Howareyousupportingrestaurants
-- utter_WhatwillhappenifIhaveanoutstandingqueryorcomplaint
+- utter_Howareyousupportingriders
+- utter_HowcanIcancelmysubscription
 - utter_HowcanIkeepintouchwithyou
-- utter_WhatisSkiply
-- utter_WhatisthestorybehindSkiply
+- utter_HowdoIcheckthestatusofmyrefund
+- utter_HowdoImanagemysubscription
+- utter_HowdoIorderDinein
+- utter_HowdoIorderPickup
+- utter_HowdoIredeemavouchercode
+- utter_HowdoIsignupforSkiplyPlus
+- utter_HowdoIusemyvouchertogetfreePlus 
+- utter_HowdoesSkiplyEditionswork
+- utter_Howdoescontactfreedeliverywork
 - utter_Howdoesitwork
+- utter_HowdofeesworkonSkiply
+- utter_Howisthefooddeliveredtome
+- utter_Howisthefoodpackaged
+- utter_IamaSkiplyforBusinesscustomerCanIgetunlimitedfreedeliveryonordersplacedwithmycompanyallowance
+- utter_Icantseeaninvitelink–whereisit
+- utter_IdonthavetheSkiplyappCanIsubscribeonthewebsite
+- utter_IfIorderfromarestaurant,howdoIknowifitsanEditionskitchen
+- utter_IfoundaforeignobjectinmyfoodWhatdoIdo
+- utter_Igotacallfrom4401134679062—whoisthis
+- utter_Ihadanallergicreactionafterconsumingmyfood
+- utter_IhaveavoucherforfreeSkiplyPlus,butImalreadyamemberCanIstillusemyvoucher
+- utter_IhaveavoucherforfreeSkiplyPlus–butIamstillseeingadeliveryfee
+- utter_ImnotanewuserCanIgetfreecreditifIsignup
+- utter_IsmymealdifferentwhenitcomesfromEditions
+- utter_IsorderingthroughSkiplysafe
+- utter_IsthereaSkiplyapp
+- utter_IstherealimittohowmanyordersIcanplace
+- utter_Isthereaminimumspend
+- utter_IveaccidentallycancelledmysubscriptionCanIresubscribe
+- utter_IwassickafterconsumingfoodWhatdoIdo
+- utter_Myvouchercodedoesntwork
+- utter_WhatdoIdoifIhaveachargeIdonotrecognise
+- utter_WhatifIcantfindtherestaurant
+- utter_WhatifIhaveallergies
+- utter_WhatifImnotaroundwhenmyriderarrives
+- utter_WhatifIwanttoaddsomethingtomyorder
+- utter_WhatifIwanttocancelmyorder
+- utter_Whatifmyorderislate
+- utter_Whatifsomethingiswrongwithmyorder
+- utter_WhatisEditionstryingtodo
+- utter_WhatisSkiply
+- utter_WhatisSkiplyEditions
+- utter_WhatisSkiplyPlus
+- utter_WhatisaDineinorder
+- utter_WhatisaPickuporder
+- utter_WhatisthestorybehindSkiply
 - utter_WhatkindofrestaurantsarelistedonSkiply
 - utter_WhattimescanIorderfor
-- utter_Howisthefooddeliveredtome
-- utter_WhydoesntSkiplyacceptcash
-- utter_DoIhavetotip
-- utter_Isthereaminimumspend
-- utter_HowdoIredeemavouchercode
-- utter_Doyouchargethesamepricesastherestaurantdoesintherestaurant
-- utter_CanIplaceordersinadvance
-- utter_CanIcollectmyorder
-- utter_WhatifIwanttocancelmyorder
-- utter_Howisthefoodpackaged
-- utter_Whatifsomethingiswrongwithmyorder
-- utter_WhatifIwanttoaddsomethingtomyorder
-- utter_Whatifmyorderislate
-- utter_WhatifImnotaroundwhenmyriderarrives
-- utter_Igotacallfrom4401134679062—whoisthis
-- utter_HowdofeesworkonSkiply
-- utter_ImnotanewuserCanIgetfreecreditifIsignup
-- utter_Icantseeaninvitelink–whereisit
-- utter_WhatifIhaveallergies
-- utter_AreCBDproductsavailableonSkiply 
-- utter_Whenwillyoubedeliveringinmyarea
-- utter_DoesSkiplyoffercompanyaccounts
-- utter_IsthereaSkiplyapp
-- utter_WhatisSkiplyEditions
-- utter_IfIorderfromarestaurant,howdoIknowifitsanEditionskitchen
-- utter_WhatisEditionstryingtodo
-- utter_HowdoesSkiplyEditionswork
-- utter_IsmymealdifferentwhenitcomesfromEditions
-- utter_WhatisSkiplyPlus
-- utter_HowdoIsignupforSkiplyPlus
-- utter_IstherealimittohowmanyordersIcanplace
-- utter_HowdoImanagemysubscription
+- utter_WhatwillhappenifIhaveanoutstandingqueryorcomplaint
 - utter_WhenwillIbecharged
-- utter_CanIsharemyaccountwithothers
-- utter_HowcanIcancelmysubscription
-- utter_CanIchangemypaymentdate
-- utter_CanIgetmymoneybackifIwanttocancel
-- utter_DoIstillhavetopayservicefeesandsmallorderfees
-- utter_IamaSkiplyforBusinesscustomerCanIgetunlimitedfreedeliveryonordersplacedwithmycompanyallowance
-- utter_IdonthavetheSkiplyappCanIsubscribeonthewebsite
-- utter_Myvouchercodedoesntwork
-- utter_IveaccidentallycancelledmysubscriptionCanIresubscribe
-- utter_HowdoIusemyvouchertogetfreePlus 
-- utter_IhaveavoucherforfreeSkiplyPlus–butIamstillseeingadeliveryfee
-- utter_IhaveavoucherforfreeSkiplyPlus,butImalreadyamemberCanIstillusemyvoucher
-- utter_Youdontdelivertomyaddress,canIgiftthevouchertosomeoneelse
-- utter_WhatdoIdoifIhaveachargeIdonotrecognise
+- utter_Whenwillyoubedeliveringinmyarea
+- utter_Whereismyordernumber
 - utter_WhydoIstillseeachargeforacancelledorder
-- utter_HowdoIcheckthestatusofmyrefund
-- utter_IwassickafterconsumingfoodWhatdoIdo
-- utter_IfoundaforeignobjectinmyfoodWhatdoIdo
-- utter_Ihadanallergicreactionafterconsumingmyfood
+- utter_WhydoesntSkiplyacceptcash
+- utter_Youdontdelivertomyaddress,canIgiftthevouchertosomeoneelse
